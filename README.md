@@ -10,3 +10,4 @@ Requirements:
 3. Put Bpy in the root folder of the project.
 4. Tested on lambda as package and working nicely.
 
+Sample code is provided which when executed imports libraries.
