@@ -11,3 +11,9 @@ Requirements:
 4. Tested on lambda as package and working nicely.
 
 Sample code is provided which when executed imports libraries.
+
+PIL is also provided in the repo for general preprocessing or post processing of renders, used originally for decreasing the rendered 
+image size for easy transfer over network.
+JSON encode library is provided to handle lambda outputs.
+
+Enjoy!
